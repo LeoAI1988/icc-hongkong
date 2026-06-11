@@ -1,0 +1,50 @@
+{
+  "success": [],
+  "failures": [
+    {
+      "name": "about_team_consulting",
+      "error": "Timeout waiting for task"
+    },
+    {
+      "name": "about_hk_architecture",
+      "error": "Timeout waiting for task"
+    },
+    {
+      "name": "hero_hk_skyline",
+      "error": "Timeout waiting for task"
+    },
+    {
+      "name": "value_hk_panorama",
+      "error": "Timeout waiting for task"
+    },
+    {
+      "name": "case_university_graduation",
+      "error": "Timeout waiting for task"
+    },
+    {
+      "name": "adv_education",
+      "error": "Timeout waiting for task"
+    },
+    {
+      "name": "adv_medical",
+      "error": "Timeout waiting for task"
+    },
+    {
+      "name": "adv_travel",
+      "error": "Timeout waiting for task"
+    },
+    {
+      "name": "adv_property",
+      "error": "Timeout waiting for task"
+    },
+    {
+      "name": "adv_tax",
+      "error": "Timeout waiting for task"
+    },
+    {
+      "name": "adv_protection",
+      "error": "Timeout waiting for task"
+    }
+  ],
+  "timestamp": "2026-06-11T06:25:37.283Z"
+}
